@@ -33,6 +33,9 @@ git clone https://github.com/prajwl-dh/electron-starter-template.git
 ### 2. Install Dependencies
 
 Navigate to the project directory and install the required dependencies:
+```bash
+cd electron-starter-template
+```
 
 ```bash
 npm install
