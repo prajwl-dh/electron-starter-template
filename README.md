@@ -27,7 +27,7 @@ Follow these steps to set up and run the application:
 Start by cloning the repository to your local machine:
 
 ```bash
-$ git clone https://github.com/prajwl-dh/electron-starter-template.git
+git clone https://github.com/prajwl-dh/electron-starter-template.git
 ```
 
 ### 2. Install Dependencies
@@ -35,7 +35,7 @@ $ git clone https://github.com/prajwl-dh/electron-starter-template.git
 Navigate to the project directory and install the required dependencies:
 
 ```bash
-$ npm install
+npm install
 ```
 
 ### 3. Run the Development Server
@@ -43,7 +43,7 @@ $ npm install
 To start the development server and begin building your app, use the following command:
 
 ```bash
-$ npm run dev
+npm run dev
 ```
 
 This will launch the application in development mode with hot-reloading enabled.
@@ -55,19 +55,19 @@ To build your application for different platforms, use the following commands ba
 - **Windows:**
 
 ```bash
-$ npm run build:win
+npm run build:win
 ```
 
 - **macOS:**
 
 ```bash
-$ npm run build:mac
+npm run build:mac
 ```
 
 - **Linux:**
 
 ```bash
-$ npm run build:linux
+npm run build:linux
 ```
 
 ## License
