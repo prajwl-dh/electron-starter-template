@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self' *; script-src 'self' *; style-src 'self' 'unsafe-inline' *;"
+    />
+  </head>
+
+  <!-- Tailwind classes can be used directly here without importing the index.css file, as Vite automatically loads it. -->
+
+  <body class="h-dvh w-dvw font-mono antialiased overflow-hidden">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
