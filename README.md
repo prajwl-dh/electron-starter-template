@@ -27,7 +27,7 @@ Follow these steps to set up and run the application:
 Start by cloning the repository to your local machine:
 
 ```bash
-$ git clone <repository-url>
+$ git clone https://github.com/prajwl-dh/electron-starter-template.git
 ```
 
 ### 2. Install Dependencies
